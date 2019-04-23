@@ -4,3 +4,6 @@ body{
 h1,h2,h3,h4,h5,h6{
 	font-family: 'Noto Sans TC', sans-serif;
 }
+.bg-primary {
+	background-color:#6588a3!important;
+}
